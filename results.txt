@@ -1,0 +1,3 @@
+Sensor: Sensor: Type: Sensor Type: Air Quality, Units: ppm, Location: Indoor, Current Data: None, All Data: [10, None, None, None, None, None, None, None, None, None, None], Data: None
+Sensor: Sensor: Type: Sensor Type: Temperature, Units: Celsius, Location: Living Room, Current Data: None, All Data: [15, None, None, None, None, None, None, None, None, None, None], Data: None
+Sensor: Sensor: Type: Sensor Type: Rainfall, Units: mm, Location: Backyard, Current Data: None, All Data: [20, None, None, None, None, None, None, None, None, None, None], Data: None
